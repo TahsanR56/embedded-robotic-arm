@@ -1,6 +1,6 @@
 ## Parts List
 - Arduino Uno microcontroller (or alternative)
-- SG90 Servo Motor - 4PCS
+- MG90s Servo Motor - 4PCS
 - Breadboard
 - Jumper Cables
 - External power supply
