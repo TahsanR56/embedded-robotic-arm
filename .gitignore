@@ -1,0 +1,31 @@
+# Arduino / Embedded Development
+*.elf
+*.hex
+*.bin
+*.eep
+*.map
+*.d
+*.o
+*.a
+*.lst
+*.sym
+*.dmp
+
+# Logs
+*.log
+
+# Build directories
+build/
+out/
+tmp/
+temp/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
