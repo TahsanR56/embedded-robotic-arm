@@ -14,7 +14,7 @@ This is a C++/Arduino based robotic arm that that uses servos and is able to rot
 
 | Date       | Update Summary                                  |
 |------------|--------------------------------------------------|
-| 2025-05-27 | Built the cardboard robotic arm prototype with code and manual controls. Photos are uploaded. Watch the demo video [here]() |
+| 2025-05-27 | Built the cardboard robotic arm prototype with code and manual controls. Photos are uploaded. Watch the movement demo video here [here](https://youtu.be/dCFzufIIIDc), and a demo of the arm bringing me a waterbottle [here](https://youtube.com/shorts/pW1OAWMeoAk)|
 | 2025-05-16 | Tested external power and multi-servo control via single potentiometer. Watch the demo video [here](https://youtube.com/shorts/bfpbie02di8?feature=share) |
 | 2025-05-15 | Initial setup of servo control code and potentiometer reading |
 | 2025-05-14 | Begun cutting cardboard prototype|
