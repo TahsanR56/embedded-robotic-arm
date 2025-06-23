@@ -14,6 +14,9 @@ This is a C++/Arduino based robotic arm that that uses servos and is able to rot
 
 | Date       | Update Summary                                  |
 |------------|--------------------------------------------------|
+| 2025-06-23 | I have completed the GUI x Robot arm control. Watch the demo [here](https://youtube.com/shorts/B4a3ByK4Qco)|
+| 2025-06-21 | I have started working on the Python GUI aspect with tkinter|
+| 2025-06-19 | I have printed and assembled the gripepr. Watch the demo [here](https://youtube.com/shorts/WlHM_8rEOOk)|
 | 2025-06-18 | I have printed and assembled all components except for the gripper, uploaded my wave script to the arm. Watch the demo [here](https://youtube.com/shorts/mAFQgBKIPcE?feature=share)|
 | 2025-06-17 | I have started printing using my universities 3d printers, 3/6 parts completed. Programmed a wave animation whilst waiting
 | 2025-06-17 | I have completed my models for the each joint and will begin the printing process
@@ -23,5 +26,12 @@ This is a C++/Arduino based robotic arm that that uses servos and is able to rot
 | 2025-05-15 | Initial setup of servo control code and potentiometer reading |
 | 2025-05-14 | Begun cutting cardboard prototype|
 | 2025-05-13 | Began creating 3d models with fusion360|
+
+---
+## Development Paused
+
+I have achieved the main goals of this project. Although there are many areas to tweak and improve, I have decided to move onto my next project.
+I really enjoyed working on this robotic arm, with the first prototype and the 3d printed version. I have learnt so much through the project in the areas of electroncs, mechanics, CAD, and code.
+Despite moving on from this project, I am sure I will return in the future to make a significantly better robotic arm with more experience under my belt.
 
 ---
