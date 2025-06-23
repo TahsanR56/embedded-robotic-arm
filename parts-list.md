@@ -1,9 +1,11 @@
 ## Parts List
-- Arduino Uno microcontroller (or alternative)
-- MG90s Servo Motor - 4PCS
-- Breadboard
-- Jumper Cables
-- External power supply
-- Cardboard / Hot glue / screws / paperclips
-- push buttons / potentiometer - 4PCS
-- 10K ohm resistors (many)
+
+| Shared Components           | Cardboard Version       | 3D Printed Version      |
+|-----------------------------|-------------------------|-------------------------|
+| Arduino Uno microcontroller | Cardboard structure     | 3D-printed components   |
+| MG90s Servo Motor           | Hot glue for assembly   | Screws/nuts for assembly|
+| Breadboard                  | Paperclip reinforcements| Rubber Bands            |
+| Jumper Cables               | 4x MG90s Servos         | 3x MG90s Servo          |
+| External power supply       | -                       | 3x MG996R Servos        |
+| Push buttons/potentiometer  | -                       | Computer for GUI        |
+
